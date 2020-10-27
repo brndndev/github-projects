@@ -19,11 +19,11 @@
 ### Languages and Tools:
 
 [<img align="left"  alt="Visual Studio Code" width="26px" src="1024px-Visual_Studio_Code_1.35_icon.svg.png" />]
-[<img align="left"  alt="HTML" width="26px" src="html5-40-1175193.png" />]
-[<img align="left"  alt="CSS" width="26px" src="css.png" />]
-[<img align="left"  alt="JavaScript" width="26px" src="javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" />]
-[<img align="left"  alt="JQuery" width="26px" src="jquery-icon-16.jpg.png" />]
-[<img align="left"  alt="Excel" width="26px" src="1043px-Microsoft_Excel_2013_logo.svg.png" />]
+[<img align="left"  alt="HTML" width="26px" src="/images/html5-40-1175193.png" />]
+[<img align="left"  alt="CSS" width="26px" src="/images/css.png" />]
+[<img align="left"  alt="JavaScript" width="26px" src="/images/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" />]
+[<img align="left"  alt="JQuery" width="26px" src="/images/jquery-icon-16.jpg.png" />]
+[<img align="left"  alt="Excel" width="26px" src="/images/1043px-Microsoft_Excel_2013_logo.svg.png" />]
 
 
 <br />
