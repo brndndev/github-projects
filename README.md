@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Github" width="22px" src="github.jpeg" />][https://github.com/brndndev]
-[<img align="left"  alt="Notion" width="22px" src="notion.jpeg" />][https://www.notion.so/7a13ec7f3cf346768deff36f8f5f1655?v=5156e0f7a6184a15af814995e2787583&showMoveTo=true]
-[<img align="left"  alt="LinkedIn" width="22px" src="linkedin.png" />][https://www.linkedin.com/brandon-j-price/]
-[<img align="left"  alt="Dev.to" width="22px" src="devto.svg" />][https://dev.to/brndndev]
+[<img align="left" alt="Github" width="22px" src="/images/github.jpeg" />][https://github.com/brndndev]
+[<img align="left"  alt="Notion" width="22px" src="/images/notion.jpeg" />][https://www.notion.so/7a13ec7f3cf346768deff36f8f5f1655?v=5156e0f7a6184a15af814995e2787583&showMoveTo=true]
+[<img align="left"  alt="LinkedIn" width="22px" src="/images/linkedin.png" />][https://www.linkedin.com/brandon-j-price/]
+[<img align="left"  alt="Dev.to" width="22px" src="/images/devto.svg" />][https://dev.to/brndndev]
 
 <br />
 
