@@ -1,17 +1,18 @@
 ### Hi, I'm Brandon and I'm a begining my Front End Dev journey [here](https://github.com/brndndev/100-days-of-code/blob/master/log.md)  👋🏾
 
-## I'm a Husband learning to be a Developer with a background in Supply Chain and Logistics! 👷🏾‍♂️👨🏾‍💻
-- 💻 I am currently learning HTML, CSS, and JavaScript through the [Online Coding Bootcamp][www.freecodecamp.org]
-- 📓 I'm currently learning everything without a CS degree and with my wife who is amazing 👨🏾‍🎓👩🏾‍🎓
-- I'm looking to collaborate with other newbie developers and help eachother learn 🏃🏾‍♂️🏃🏾
-- 🥅 2020 Goals: Finish the year having built an app from scratch with [HTML][CSS]and[JavaScript] ⚽️🏃🏾‍♂️
+### I'm a Husband and Developer with a background in Supply Chain and Logistics!👷🏾‍♂️👨🏾‍💻
+<br />
+- 💻 I am currently learning HTML, CSS, and JavaScript through [freecodecamp](www.freecodecamp.org)
+- 📓 I'm currently learning everything without a CS degree and with my wife👰🏾 who is amazing👨🏾‍🎓👩🏾‍🎓
+- I'm looking to collaborate with other newbie developers and help eachother learn🏃🏾‍♂️🏃🏾
+- 🥅 2020 Goals: Finish the year having built an app from scratch with [HTML][CSS]and[JavaScript]⚽️🏃🏾‍♂️
 - ⚡️ Fun fact: I love coffee ☕️, photography 📸, and lofi music 🎛
 
 ### Connect with me:
 
-<img align="left" alt="https://github.com/brndndev" width="26px" src="/images/githubimages-1.png" />
+<img align="left" alt="https://github.com/brndndev" width="30px" src="/images/githubimages-1.png" />
 
-<img align="left"  alt="https://www.notion.so/7a13ec7f3cf346768deff36f8f5f1655?v=5156e0f7a6184a15af814995e2787583&showMoveTo=true" width="26px" src="/images/notion-1.jpeg" />
+<img align="left"  alt="https://www.notion.so/7a13ec7f3cf346768deff36f8f5f1655?v=5156e0f7a6184a15af814995e2787583&showMoveTo=true" width="30px" src="/images/notion-1.jpeg" />
 
 <img align="left"  alt="https://www.linkedin.com/brandon-j-price/" width="26px" src="/images/linkedin.png" />
 
