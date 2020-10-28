@@ -1,11 +1,14 @@
-### Hi, I'm Brandon and I'm a begining my Front End Dev journey [here](https://github.com/brndndev/100-days-of-code/blob/master/log.md)  👋🏾
+## Hi, I'm Brandon and I'm a begining my Front End Dev journey [here](https://github.com/brndndev/100-days-of-code/blob/master/log.md)  👋🏾
 
 ### I'm a Husband and Developer with a background in Supply Chain and Logistics!👷🏾‍♂️👨🏾‍💻
 <br />
 - 💻 I am currently learning HTML, CSS, and JavaScript through [freecodecamp](www.freecodecamp.org)
+
 - 📓 I'm currently learning everything without a CS degree and with my wife👰🏾 who is amazing👨🏾‍🎓👩🏾‍🎓
+
 - I'm looking to collaborate with other newbie developers and help eachother learn🏃🏾‍♂️🏃🏾
 - 🥅 2020 Goals: Finish the year having built an app from scratch with [HTML][CSS]and[JavaScript]⚽️🏃🏾‍♂️
+
 - ⚡️ Fun fact: I love coffee ☕️, photography 📸, and lofi music 🎛
 
 ### Connect with me:
