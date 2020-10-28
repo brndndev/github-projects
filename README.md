@@ -9,13 +9,13 @@
 
 ### Connect with me:
 
-<img align="left" alt="https://github.com/brndndev" width="22px" src="/images/githubimages-1.png" />
+<img align="left" alt="https://github.com/brndndev" width="26px" src="/images/githubimages-1.png" />
 
-<img align="left"  alt="https://www.notion.so/7a13ec7f3cf346768deff36f8f5f1655?v=5156e0f7a6184a15af814995e2787583&showMoveTo=true" width="22px" src="/images/notion.jpeg" />
+<img align="left"  alt="https://www.notion.so/7a13ec7f3cf346768deff36f8f5f1655?v=5156e0f7a6184a15af814995e2787583&showMoveTo=true" width="26px" src="/images/notion-1.jpeg" />
 
-<img align="left"  alt="https://www.linkedin.com/brandon-j-price/" width="22px" src="/images/linkedin.png" />
+<img align="left"  alt="https://www.linkedin.com/brandon-j-price/" width="26px" src="/images/linkedin.png" />
 
-<img align="left"  alt="https://dev.to/brndndev" width="22px" src="/images/devto.svg" />
+<img align="left"  alt="https://dev.to/brndndev" width="26px" src="/images/devto.svg" />
 
 <br />
 
