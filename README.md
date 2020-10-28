@@ -1,4 +1,4 @@
-### Hi there, I'm Brandon and I'm a begining my front end development journey here [website] 👋🏾
+### Hi, I'm Brandon and I'm a begining my Front End Dev journey [here](https://github.com/brndndev/100-days-of-code/blob/master/log.md)  👋🏾
 
 ## I'm a Husband learning to be a Developer with a background in Supply Chain and Logistics! 👷🏾‍♂️👨🏾‍💻
 - 💻 I am currently learning HTML, CSS, and JavaScript through the [Online Coding Bootcamp][www.freecodecamp.org]
@@ -9,13 +9,13 @@
 
 ### Connect with me:
 
-<img align="left" alt="https://github.com/brndndev" width="22px" src="/images/github.jpeg" />
+<img align="left" alt="https://github.com/brndndev" width="22px" src="/images/githubimages-1.png" />
 
 <img align="left"  alt="https://www.notion.so/7a13ec7f3cf346768deff36f8f5f1655?v=5156e0f7a6184a15af814995e2787583&showMoveTo=true" width="22px" src="/images/notion.jpeg" />
 
 <img align="left"  alt="https://www.linkedin.com/brandon-j-price/" width="22px" src="/images/linkedin.png" />
 
-<img align="left"  alt="https://dev.to/brndndev" width="22px" src="/images/devto.svg" />]
+<img align="left"  alt="https://dev.to/brndndev" width="22px" src="/images/devto.svg" />
 
 <br />
 
