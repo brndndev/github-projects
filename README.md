@@ -2,7 +2,7 @@
 
 ### I'm a Husband and Dev with a background in Supply Chain and Logistics!👷🏾‍♂️👨🏾‍💻
 <br />
-- 💻 I am currently learning HTML, CSS, and JavaScript through [freecodecamp](https://freecodecamp.org)
+- 💻 I am currently learning HTML, CSS, and JavaScript through [free code camp](https://www.freecodecamp.org) 👾
 
 - 📓 I'm currently learning everything without a CS degree and with my wife👰🏾 who is amazing👨🏾‍🎓👩🏾‍🎓
 
