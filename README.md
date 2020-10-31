@@ -7,7 +7,7 @@
 - 📓 I'm currently learning everything without a CS degree and with my wife👰🏾 who is amazing👨🏾‍🎓👩🏾‍🎓
 
 - I'm looking to collaborate with other newbie developers and help eachother learn🏃🏾‍♂️🏃🏾
-- 🥅 2020 Goals: Finish the year having built an app from scratch with [HTML][CSS]and[JavaScript]⚽️🏃🏾‍♂️
+- 🥅 2020 Goals: Finish the year having built an app from scratch with HTML, CSS, and JS.⚽️🏃🏾‍♂️
 
 - ⚡️ Fun fact: I love coffee ☕️, photography 📸, and lofi music 🎛
 
